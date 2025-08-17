@@ -1,2 +1,0 @@
-Server values
-time = 7970.684

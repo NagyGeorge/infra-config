@@ -1,0 +1,369 @@
+﻿13:37:54 Game Port: 2312, Steam Query Port: 2313
+13:37:54 Host identity created.
+13:38:41 SSG M.Donnelly uses modified data file
+13:38:41 Can't find a mission collection / mission with template name: 'Operation_Sparta.kunduz_valley', skipping to next mission.
+13:38:42 Player SSG M.Donnelly connecting.
+13:38:43 Player SSG M.Donnelly connected (id=76561198364506178).
+13:40:52 Player SSG M.Donnelly disconnected.
+13:41:11 SSG M.Donnelly uses modified data file
+13:41:11 Player SSG M.Donnelly connecting.
+13:41:12 Player SSG M.Donnelly connected (id=76561198364506178).
+13:41:58 Admin logged in, player: SSG M.Donnelly, playerUID: 76561198364506178, IP: 192.168.1.180:2304.
+13:42:24 Mission Operation_Payday.Tanoa read from bank.
+13:42:45 Roles assigned.
+13:42:45 Reading mission ...
+13:42:51 Mission read.
+13:43:04 Game started.
+14:25:46 SPC C.Hillard uses modified data file
+14:25:46 Player SPC C.Hillard connecting.
+14:25:48 Player SPC C.Hillard connected (id=76561198327045223).
+14:25:54 CPL A.Erickson uses modified data file
+14:25:54 Player CPL A.Erickson connecting.
+14:25:55 Player CPL A.Erickson connected (id=76561198377991651).
+14:26:25 SPC B.Hansen uses modified data file
+14:26:26 Player SPC B.Hansen connecting.
+14:26:27 Player SPC B.Hansen connected (id=76561198240446616).
+14:26:36 SPC L.Meadows uses modified data file
+14:26:37 Player SPC L.Meadows connecting.
+14:26:38 Player SPC L.Meadows connected (id=76561198107931484).
+14:27:01 SPC A.Borovetski uses modified data file
+14:27:01 Player SPC A.Borovetski connecting.
+14:27:03 Player SPC A.Borovetski connected (id=76561198072101545).
+14:27:38 PFC J.Winchester uses modified data file
+14:27:38 Player PFC J.Winchester connecting.
+14:27:39 Player PFC J.Winchester connected (id=76561198152678295).
+14:27:44 Player SSG M.Donnelly is losing connection
+14:28:12 OCS D.Lotus uses modified data file
+14:28:12 Player SPC B.Hansen is losing connection
+14:28:12 Player OCS D.Lotus connecting.
+14:28:14 Player OCS D.Lotus connected (id=76561198046799420).
+14:28:21 WO1 J.White uses modified data file
+14:28:21 Player WO1 J.White connecting.
+14:28:23 Player WO1 J.White connected (id=76561198254767457).
+14:28:45 SPC P.MacTavish uses modified data file
+14:28:45 Player SPC P.MacTavish connecting.
+14:28:46 Player SPC P.MacTavish connected (id=76561198176499965).
+14:28:54 Player SSG M.Donnelly disconnected.
+14:28:54 Admin logged out, player: SSG M.Donnelly, playerUID: 76561198364506178, IP: 192.168.1.180:2304.
+14:28:54 SSG M.Donnelly uses modified data file
+14:29:02 Player SSG M.Donnelly disconnected.
+14:29:09 Player SPC B.Hansen: Signature check timed out
+14:29:09 Player SPC B.Hansen disconnected.
+14:29:19 SSG M.Donnelly uses modified data file
+14:29:19 Player SSG M.Donnelly connecting.
+14:29:21 Player SSG M.Donnelly connected (id=76561198364506178).
+14:29:32 Pvt W.Blackwell uses modified data file
+14:29:32 Player Pvt W.Blackwell connecting.
+14:29:34 Player Pvt W.Blackwell connected (id=76561198129811971).
+14:29:34 Player Pvt W.Blackwell disconnected.
+14:30:09 Player OCS D.Lotus disconnected.
+14:30:19 OCS D.Lotus uses modified data file
+14:30:20 Player OCS D.Lotus connecting.
+14:30:21 Player OCS D.Lotus connected (id=76561198046799420).
+14:30:28 Player PFC J.Winchester disconnected.
+14:30:44 Pvt W.Blackwell uses modified data file
+14:30:45 Player Pvt W.Blackwell connecting.
+14:30:46 Player Pvt W.Blackwell connected (id=76561198129811971).
+14:30:46 Player Pvt W.Blackwell disconnected.
+14:31:43 Player WO1 J.White is losing connection
+14:32:14 PFC J.Winchester uses modified data file
+14:32:14 Player PFC J.Winchester connecting.
+14:32:16 Player PFC J.Winchester connected (id=76561198152678295).
+14:32:16 Player WO1 J.White disconnected.
+14:32:16 WO1 J.White uses modified data file
+14:32:17 SPC B.Hansen uses modified data file
+14:32:17 Player SPC B.Hansen connecting.
+14:32:19 Player SPC B.Hansen connected (id=76561198240446616).
+14:32:24 Player WO1 J.White disconnected.
+14:32:32 WO1 J.White uses modified data file
+14:32:32 Player WO1 J.White connecting.
+14:32:34 Player WO1 J.White connected (id=76561198254767457).
+14:36:53 SGM C.Brock uses modified data file
+14:36:53 Player SGM C.Brock connecting.
+14:36:54 Player SGM C.Brock connected (id=76561198134567340).
+14:44:51 SPC N.McEnheimer uses modified data file
+14:44:51 Player SPC N.McEnheimer connecting.
+14:44:52 Player SPC N.McEnheimer connected (id=76561199586669985).
+14:46:04 SPC P.Byrde uses modified data file
+14:46:05 Player SPC P.Byrde connecting.
+14:46:16 Player SPC P.Byrde connected (id=76561197994265321).
+14:48:56 Player SPC P.Byrde disconnected.
+14:49:06 SPC P.Byrde uses modified data file
+14:49:07 Player SPC P.Byrde connecting.
+14:49:08 Player SPC P.Byrde connected (id=76561197994265321).
+14:49:09 SSG B.Fitzgerald uses modified data file
+14:49:10 Player SSG B.Fitzgerald connecting.
+14:49:11 Player SSG B.Fitzgerald connected (id=76561198101888577).
+14:50:02 Player SPC P.Byrde disconnected.
+14:51:34 SPC T.Mensink uses modified data file
+14:51:35 Player SPC T.Mensink connecting.
+14:51:36 Player SPC T.Mensink connected (id=76561199654119953).
+14:51:36 Player SPC T.Mensink disconnected.
+14:52:12 SPC P.Byrde uses modified data file
+14:52:13 Player SPC P.Byrde connecting.
+14:52:15 Player SPC P.Byrde connected (id=76561197994265321).
+15:01:29 SPC T.Mensink uses modified data file
+15:01:30 Player SPC T.Mensink connecting.
+15:01:31 Player SPC T.Mensink connected (id=76561199654119953).
+15:05:05 CPL H.Jäger uses modified data file
+15:05:06 Player CPL H.Jäger connecting.
+15:05:07 Player CPL H.Jäger connected (id=76561199010996421).
+15:37:48 PVT T.Mansour uses modified data file
+15:37:50 Player PVT T.Mansour connecting.
+15:37:51 Player PVT T.Mansour connected (id=76561199261636966).
+15:41:16 Player PVT T.Mansour disconnected.
+15:41:22 PVT T.Mansour uses modified data file
+15:41:24 Player PVT T.Mansour connecting.
+15:41:25 Player PVT T.Mansour connected (id=76561199261636966).
+15:42:26 Slow network for player name='PVT T.Mansour' ID=1347731437, steamID=76561199261636966. Ping too high (202/ 200 ms)
+15:47:56 Slow network for player name='PVT T.Mansour' ID=1347731437, steamID=76561199261636966. Ping too high (238/ 200 ms)
+15:48:26 Slow network for player name='PVT T.Mansour' ID=1347731437, steamID=76561199261636966. Ping too high (215/ 200 ms)
+15:49:26 Slow network for player name='PVT T.Mansour' ID=1347731437, steamID=76561199261636966. Ping too high (216/ 200 ms)
+15:49:56 Slow network for player name='PVT T.Mansour' ID=1347731437, steamID=76561199261636966. Ping too high (234/ 200 ms)
+15:50:26 Slow network for player name='PVT T.Mansour' ID=1347731437, steamID=76561199261636966. Ping too high (236/ 200 ms)
+15:50:56 Slow network for player name='PVT T.Mansour' ID=1347731437, steamID=76561199261636966. Ping too high (222/ 200 ms)
+15:51:26 Slow network for player name='PVT T.Mansour' ID=1347731437, steamID=76561199261636966. Ping too high (202/ 200 ms)
+15:52:26 Slow network for player name='PVT T.Mansour' ID=1347731437, steamID=76561199261636966. Ping too high (336/ 200 ms)
+15:52:47 Player PVT T.Mansour: Wrong signature for file C:\Program Files (x86)\Steam\steamapps\common\Arma 3\!Workshop\@RHSAFRF\addons\rhs_sprut.pbo
+15:52:47 Player PVT T.Mansour disconnected.
+15:53:17 PVT T.Mansour uses modified data file
+15:53:19 Player PVT T.Mansour connecting.
+15:53:20 Player PVT T.Mansour connected (id=76561199261636966).
+15:53:56 Slow network for player name='PVT T.Mansour' ID=2062610136, steamID=76561199261636966. Ping too high (216/ 200 ms)
+16:01:04 Player SPC P.Byrde is losing connection
+16:14:10 Player PVT T.Mansour: Wrong signature for file C:\Program Files (x86)\Steam\steamapps\common\Arma 3\!Workshop\@ace\addons\ace_weather.pbo
+16:14:10 Player PVT T.Mansour disconnected.
+16:14:30 PVT T.Mansour uses modified data file
+16:14:30 Player PVT T.Mansour connecting.
+16:14:31 Player PVT T.Mansour connected (id=76561199261636966).
+16:16:42 Player PVT T.Mansour: Signature check timed out
+16:16:42 Player PVT T.Mansour disconnected.
+17:05:18 Player SPC A.Borovetski disconnected.
+17:05:44 Player WO1 J.White disconnected.
+17:05:46 Player SPC P.Byrde disconnected.
+17:05:46 Player PFC J.Winchester disconnected.
+17:05:47 Player SPC T.Mensink disconnected.
+17:05:49 Player SPC N.McEnheimer disconnected.
+17:05:50 Player CPL H.Jäger disconnected.
+17:05:51 Player SPC L.Meadows disconnected.
+17:05:52 Player SSG M.Donnelly disconnected.
+17:05:52 Player SSG B.Fitzgerald disconnected.
+17:05:55 Player OCS D.Lotus disconnected.
+17:05:55 Player SPC P.MacTavish disconnected.
+17:05:59 Player SPC B.Hansen disconnected.
+17:06:23 Player SGM C.Brock disconnected.
+17:15:07 Player SPC C.Hillard disconnected.
+17:18:29 Game finished.
+class Session
+{
+	mission="Operation_Payday";
+	island="Tanoa";
+	gameType="";
+	duration=12924.895;
+	class Player1
+	{
+		name="SPC N.McEnheimer";
+		killsInfantry=18;
+		killsSoft=3;
+		killsArmor=1;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=27;
+		killed=0;
+	};
+	class Player2
+	{
+		name="CPL H.Jäger";
+		killsInfantry=22;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=22;
+		killed=0;
+	};
+	class Player3
+	{
+		name="WO1 J.White";
+		killsInfantry=14;
+		killsSoft=2;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=18;
+		killed=0;
+	};
+	class Player4
+	{
+		name="SPC C.Hillard";
+		killsInfantry=18;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=18;
+		killed=1;
+	};
+	class Player5
+	{
+		name="OCS D.Lotus";
+		killsInfantry=13;
+		killsSoft=1;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=15;
+		killed=0;
+	};
+	class Player6
+	{
+		name="SPC T.Mensink";
+		killsInfantry=14;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=14;
+		killed=0;
+	};
+	class Player7
+	{
+		name="SGM C.Brock";
+		killsInfantry=13;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=13;
+		killed=0;
+	};
+	class Player8
+	{
+		name="PFC J.Winchester";
+		killsInfantry=9;
+		killsSoft=0;
+		killsArmor=1;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=12;
+		killed=12;
+	};
+	class Player9
+	{
+		name="CPL A.Erickson";
+		killsInfantry=4;
+		killsSoft=0;
+		killsArmor=1;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=7;
+		killed=0;
+	};
+	class Player10
+	{
+		name="SPC L.Meadows";
+		killsInfantry=7;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=7;
+		killed=0;
+	};
+	class Player11
+	{
+		name="SPC B.Hansen";
+		killsInfantry=4;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=4;
+		killed=0;
+	};
+	class Player12
+	{
+		name="SSG B.Fitzgerald";
+		killsInfantry=0;
+		killsSoft=0;
+		killsArmor=1;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=3;
+		killed=0;
+	};
+	class Player13
+	{
+		name="SPC A.Borovetski";
+		killsInfantry=1;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=1;
+		killed=6;
+	};
+	class Player14
+	{
+		name="PVT T.Mansour";
+		killsInfantry=0;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=0;
+		killed=0;
+	};
+	class Player15
+	{
+		name="SSG M.Donnelly";
+		killsInfantry=0;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=0;
+		killed=0;
+	};
+	class Player16
+	{
+		name="SPC P.MacTavish";
+		killsInfantry=5;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=-1;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=0;
+		killed=1;
+	};
+	class Player17
+	{
+		name="SPC P.Byrde";
+		killsInfantry=1;
+		killsSoft=-1;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=-1;
+		killed=0;
+	};
+};
+17:18:29 Waiting for next game.
+17:20:06 Player CPL A.Erickson disconnected.

@@ -1,0 +1,370 @@
+﻿11:48:34 Game Port: 2312, Steam Query Port: 2313
+11:48:34 Host identity created.
+11:48:42 SPC D.Hayes uses modified data file
+11:48:42 Mission Zeus_Kunduz_River.kunduz_valley read from bank.
+11:48:43 Player SPC D.Hayes connecting.
+11:48:53 PFC L.Holmsen uses modified data file
+11:48:53 Player PFC L.Holmsen connecting.
+11:48:55 Player SPC D.Hayes connected (id=76561198349963161).
+11:48:55 Player PFC L.Holmsen connected (id=76561198086361847).
+11:49:54 CPL A.Erickson uses modified data file
+11:49:55 Player CPL A.Erickson connecting.
+11:49:56 Player CPL A.Erickson connected (id=76561198377991651).
+11:50:12 Roles assigned.
+11:50:12 Reading mission ...
+11:50:16 Mission read.
+11:50:17 SSG R.Ivanov uses modified data file
+11:50:18 Player SSG R.Ivanov connecting.
+11:50:19 SPC J. Koe uses modified data file
+11:50:20 Player SPC J. Koe connecting.
+11:50:20 Player SSG R.Ivanov connected (id=76561198016326368).
+11:50:21 Player SPC J. Koe connected (id=76561198198641309).
+11:50:37 2LT J.Duck uses modified data file
+11:50:37 Player 2LT J.Duck connecting.
+11:50:39 Player 2LT J.Duck connected (id=76561198158379647).
+11:50:50 WO1 D.Thorn uses modified data file
+11:50:51 Player WO1 D.Thorn connecting.
+11:50:52 Player WO1 D.Thorn connected (id=76561198333888307).
+11:51:04 SPC B.Bishop uses modified data file
+11:51:05 Player SPC B.Bishop connecting.
+11:51:06 Player SPC B.Bishop connected (id=76561198076022373).
+11:51:10 Game started.
+11:51:38 SPC S.Peche uses modified data file
+11:51:38 Player SPC S.Peche connecting.
+11:51:39 Player SPC S.Peche connected (id=76561198306451451).
+11:52:35 Player SPC S.Peche disconnected.
+11:52:59 SPC N.McEnheimer uses modified data file
+11:53:00 Player SPC N.McEnheimer connecting.
+11:53:01 Player SPC N.McEnheimer connected (id=76561199586669985).
+11:53:03 WO1 D.Martin uses modified data file
+11:53:03 Player WO1 D.Martin connecting.
+11:53:05 Player WO1 D.Martin connected (id=76561198137109722).
+11:53:56 PV2 M.Mainu uses modified data file
+11:53:57 Player PV2 M.Mainu connecting.
+11:53:59 Player PV2 M.Mainu connected (id=76561199200128375).
+11:54:18 PVT S. Oneal uses modified data file
+11:54:18 Player PVT S. Oneal connecting.
+11:54:19 Player PVT S. Oneal connected (id=76561199229010684).
+11:54:24 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (411/ 200 ms)
+11:54:27 Player PVT S. Oneal disconnected.
+11:54:48 PV2 S. Oneal uses modified data file
+11:54:49 Player PV2 S. Oneal connecting.
+11:54:50 Player PV2 S. Oneal connected (id=76561199229010684).
+11:54:54 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (318/ 200 ms)
+11:55:24 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (296/ 200 ms)
+11:55:55 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (291/ 200 ms)
+11:55:57 PV2 D.Kale uses modified data file
+11:55:57 Player PV2 D.Kale connecting.
+11:55:59 Player PV2 D.Kale connected (id=76561198303754515).
+11:56:03 SPC B.Hansen uses modified data file
+11:56:04 Player SPC B.Hansen connecting.
+11:56:04 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (290/ 200 ms)
+11:56:05 Player SPC B.Hansen connected (id=76561198240446616).
+11:56:10 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (289/ 200 ms)
+11:56:40 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (289/ 200 ms)
+11:56:55 Player PV2 D.Kale disconnected.
+11:56:59 PV2 D.Kale uses modified data file
+11:57:00 Player PV2 D.Kale connecting.
+11:57:01 Player PV2 D.Kale connected (id=76561198303754515).
+11:57:06 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (288/ 200 ms)
+11:57:17 Player SSG R.Ivanov disconnected.
+11:57:23 SPC S.Peche uses modified data file
+11:57:24 Player SPC S.Peche connecting.
+11:57:25 Player SPC S.Peche connected (id=76561198306451451).
+11:57:30 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (288/ 200 ms)
+11:57:48 PFC J.White uses modified data file
+11:57:48 Player PFC J.White connecting.
+11:57:49 Player PFC J.White connected (id=76561198254767457).
+11:57:54 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (288/ 200 ms)
+11:58:24 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (288/ 200 ms)
+11:58:54 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (288/ 200 ms)
+11:59:00 PFC T.Anderson uses modified data file
+11:59:01 Player PFC T.Anderson connecting.
+11:59:02 Player PFC T.Anderson connected (id=76561198053111736).
+11:59:07 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (288/ 200 ms)
+11:59:37 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (288/ 200 ms)
+12:00:07 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (290/ 200 ms)
+12:00:37 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (289/ 200 ms)
+12:00:51 SSG R.Ivanov uses modified data file
+12:00:51 Player SSG R.Ivanov connecting.
+12:00:52 Player SSG R.Ivanov connected (id=76561198016326368).
+12:00:53 SPC L.Meadows uses modified data file
+12:00:54 Player SPC L.Meadows connecting.
+12:00:55 Player SPC L.Meadows connected (id=76561198107931484).
+12:00:57 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (289/ 200 ms)
+12:01:12 Player PFC J.White is losing connection
+12:01:27 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (289/ 200 ms)
+12:01:47 PFC A. Johnson uses modified data file
+12:01:48 Player PFC A. Johnson connecting.
+12:01:49 Player PFC A. Johnson connected (id=76561198066826352).
+12:01:54 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (288/ 200 ms)
+12:02:24 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (288/ 200 ms)
+12:02:32 Slow network for player name='PFC J.White', ID=144599019, steamID=76561198254767457. DisconnectTimeout too high (15/90000 ms)
+12:02:54 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (288/ 200 ms)
+12:03:24 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (288/ 200 ms)
+12:03:26 SGT J.Starling uses modified data file
+12:03:26 Player SGT J.Starling connecting.
+12:03:28 Player SGT J.Starling connected (id=76561198135487458).
+12:03:33 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (288/ 200 ms)
+12:03:40 Player PFC J.White disconnected.
+12:03:53 PFC J.White uses modified data file
+12:03:53 Player PFC J.White connecting.
+12:03:55 Player PFC J.White connected (id=76561198254767457).
+12:04:00 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (290/ 200 ms)
+12:04:30 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (289/ 200 ms)
+12:05:00 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (289/ 200 ms)
+12:05:30 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (288/ 200 ms)
+12:05:41 Player SSG R.Ivanov disconnected.
+12:06:00 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (289/ 200 ms)
+12:06:30 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (288/ 200 ms)
+12:07:00 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (288/ 200 ms)
+12:07:01 Player SPC L.Meadows disconnected.
+12:07:30 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (288/ 200 ms)
+12:08:00 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (288/ 200 ms)
+12:08:30 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (288/ 200 ms)
+12:09:00 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (288/ 200 ms)
+12:09:30 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (288/ 200 ms)
+12:10:00 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (288/ 200 ms)
+12:10:30 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (288/ 200 ms)
+12:11:00 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (288/ 200 ms)
+12:11:30 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (289/ 200 ms)
+12:12:00 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (288/ 200 ms)
+12:12:13 SPC L.Meadows uses modified data file
+12:12:13 Player SPC L.Meadows connecting.
+12:12:14 Player SPC L.Meadows connected (id=76561198107931484).
+12:12:19 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (288/ 200 ms)
+12:12:49 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (288/ 200 ms)
+12:13:19 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (288/ 200 ms)
+12:13:49 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (288/ 200 ms)
+12:14:19 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (289/ 200 ms)
+12:14:41 CW2 J.Fox uses modified data file
+12:14:41 Player CW2 J.Fox connecting.
+12:14:43 Player CW2 J.Fox connected (id=76561198118559844).
+12:14:48 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (290/ 200 ms)
+12:15:18 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (289/ 200 ms)
+12:15:39 CW2 J.Tracey uses modified data file
+12:15:40 Player CW2 J.Tracey connecting.
+12:15:41 Player CW2 J.Tracey connected (id=76561198144601440).
+12:15:46 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (288/ 200 ms)
+12:16:16 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (288/ 200 ms)
+12:16:46 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (289/ 200 ms)
+12:17:16 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (290/ 200 ms)
+12:17:17 Player PFC L.Holmsen disconnected.
+12:17:46 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (289/ 200 ms)
+12:18:17 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (289/ 200 ms)
+12:18:47 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (289/ 200 ms)
+12:19:17 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (292/ 200 ms)
+12:19:47 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (290/ 200 ms)
+12:20:00 PV2 P.Perez uses modified data file
+12:20:00 Player PV2 P.Perez connecting.
+12:20:02 Player PV2 P.Perez connected (id=76561199064862348).
+12:20:07 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (289/ 200 ms)
+12:20:37 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (288/ 200 ms)
+12:21:07 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (289/ 200 ms)
+12:21:37 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (290/ 200 ms)
+12:22:07 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (289/ 200 ms)
+12:22:37 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (289/ 200 ms)
+12:23:07 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (290/ 200 ms)
+12:23:37 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (297/ 200 ms)
+12:23:57 OCS D.Lotus uses modified data file
+12:23:57 Player OCS D.Lotus connecting.
+12:23:59 Player OCS D.Lotus connected (id=76561198046799420).
+12:24:04 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (295/ 200 ms)
+12:24:34 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:25:04 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:25:26 CW3 E.Poltorak uses modified data file
+12:25:27 Player CW3 E.Poltorak connecting.
+12:25:29 Player CW3 E.Poltorak connected (id=76561198043260946).
+12:25:34 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:26:04 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:26:21 1SG V.Garcia uses modified data file
+12:26:22 Player 1SG V.Garcia connecting.
+12:26:27 Player 1SG V.Garcia connected (id=76561198055949284).
+12:26:32 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:26:43 Admin logged in, player: 1SG V.Garcia, playerUID: 76561198055949284, IP: 192.168.1.5:2304.
+12:26:44 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:27:14 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:27:44 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (296/ 200 ms)
+12:28:14 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (295/ 200 ms)
+12:28:44 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:28:52 Server load: FPS 0, memory used: 2213 MB, out: 0 Kbps, in: 0 Kbps, NG:0, G:0, BE-NG:0, BE-G:0, RQ:0, Players: 24 (L:0, R:0, B:0, G:24, D:0), JIP (T:18 Q:25597)
+12:29:14 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (294/ 200 ms)
+12:29:44 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (325/ 200 ms)
+12:30:14 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (300/ 200 ms)
+12:30:44 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (294/ 200 ms)
+12:31:14 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:31:44 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:32:14 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:32:44 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (295/ 200 ms)
+12:33:14 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:33:44 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:34:14 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (294/ 200 ms)
+12:34:44 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:35:14 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:35:41 Player SPC D.Hayes disconnected.
+12:35:44 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:35:48 Player PFC T.Anderson disconnected.
+12:36:14 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (284/ 200 ms)
+12:36:44 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (290/ 200 ms)
+12:37:14 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (292/ 200 ms)
+12:37:44 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (292/ 200 ms)
+12:38:14 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:38:44 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:39:14 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:39:44 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:40:14 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:40:44 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:41:14 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:41:44 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:42:14 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (292/ 200 ms)
+12:42:44 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (292/ 200 ms)
+12:43:14 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:43:44 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:44:14 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:44:44 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:45:14 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:45:44 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (292/ 200 ms)
+12:45:58 Player SGT J.Starling disconnected.
+12:46:14 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:46:44 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:47:14 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:47:44 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (294/ 200 ms)
+12:48:14 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:48:44 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:49:14 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:49:44 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:50:14 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:50:44 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:51:14 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:51:44 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (287/ 200 ms)
+12:52:14 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (291/ 200 ms)
+12:52:44 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (292/ 200 ms)
+12:53:14 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:53:44 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:54:14 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (294/ 200 ms)
+12:54:44 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:55:14 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:55:44 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:56:14 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:56:44 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:57:14 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:57:44 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:58:14 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:58:44 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+12:59:14 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (294/ 200 ms)
+12:59:33 sasha uses modified data file
+12:59:34 Player sasha connecting.
+12:59:36 Player sasha connected (id=76561199550569357).
+12:59:41 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (294/ 200 ms)
+13:00:03 Player sasha disconnected.
+13:00:11 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+13:00:41 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+13:01:11 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+13:01:41 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+13:02:11 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+13:02:41 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+13:03:11 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (292/ 200 ms)
+13:03:41 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (292/ 200 ms)
+13:04:11 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (294/ 200 ms)
+13:04:41 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (294/ 200 ms)
+13:05:11 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+13:05:41 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+13:06:11 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (294/ 200 ms)
+13:06:41 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+13:07:11 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+13:07:32 Selt uses modified data file
+13:07:32 Player Selt connecting.
+13:07:34 Player Selt connected (id=76561199261636966).
+13:07:39 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+13:08:09 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+13:08:39 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+13:08:51 Player SPC L.Meadows disconnected.
+13:09:03 Player Selt disconnected.
+13:09:09 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+13:09:13 PV2 T.Mansour uses modified data file
+13:09:13 Player PV2 T.Mansour connecting.
+13:09:15 Player PV2 T.Mansour connected (id=76561199261636966).
+13:09:20 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+13:09:50 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+13:10:20 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+13:10:50 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+13:11:20 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+13:11:22 WOC J.Graham uses modified data file
+13:11:23 Player WOC J.Graham connecting.
+13:11:24 Player WOC J.Graham connected (id=76561198018474539).
+13:11:29 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+13:11:59 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+13:12:29 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+13:12:59 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+13:13:29 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+13:13:59 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (293/ 200 ms)
+13:14:29 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (290/ 200 ms)
+13:14:59 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (289/ 200 ms)
+13:15:30 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (278/ 200 ms)
+13:16:00 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (278/ 200 ms)
+13:16:30 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (286/ 200 ms)
+13:16:37 Player PV2 P.Perez disconnected.
+13:17:00 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (287/ 200 ms)
+13:17:30 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (288/ 200 ms)
+13:18:00 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (288/ 200 ms)
+13:18:30 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (288/ 200 ms)
+13:18:38 Player SPC N.McEnheimer disconnected.
+13:18:44 Player CW2 J.Tracey disconnected.
+13:19:00 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (288/ 200 ms)
+13:19:10 RCT S.Herbst uses modified data file
+13:19:11 Player RCT S.Herbst connecting.
+13:19:12 Player RCT S.Herbst connected (id=76561199550569357).
+13:19:17 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (288/ 200 ms)
+13:19:34 SGT X.Swoop uses modified data file
+13:19:35 Player SGT X.Swoop connecting.
+13:19:36 Player SGT X.Swoop connected (id=76561198006715620).
+13:19:39 Player CW3 E.Poltorak disconnected.
+13:19:41 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (288/ 200 ms)
+13:19:41 Slow network for player name='PV2 T.Mansour' ID=601398272, steamID=76561199261636966. Ping too high (287/ 200 ms)
+13:19:41 Slow network for player name='RCT S.Herbst' ID=1972764714, steamID=76561199550569357. Ping too high (210/ 200 ms)
+13:20:11 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (288/ 200 ms)
+13:20:11 Slow network for player name='PV2 T.Mansour' ID=601398272, steamID=76561199261636966. Ping too high (215/ 200 ms)
+13:20:11 Slow network for player name='RCT S.Herbst' ID=1972764714, steamID=76561199550569357. Ping too high (218/ 200 ms)
+13:20:41 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (288/ 200 ms)
+13:20:41 Slow network for player name='PV2 T.Mansour' ID=601398272, steamID=76561199261636966. Ping too high (202/ 200 ms)
+13:20:41 Slow network for player name='RCT S.Herbst' ID=1972764714, steamID=76561199550569357. Ping too high (214/ 200 ms)
+13:21:11 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (288/ 200 ms)
+13:21:11 Slow network for player name='RCT S.Herbst' ID=1972764714, steamID=76561199550569357. Ping too high (213/ 200 ms)
+13:21:41 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (288/ 200 ms)
+13:21:41 Slow network for player name='RCT S.Herbst' ID=1972764714, steamID=76561199550569357. Ping too high (213/ 200 ms)
+13:21:55 Player RCT S.Herbst disconnected.
+13:22:11 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (288/ 200 ms)
+13:22:41 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (288/ 200 ms)
+13:23:11 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (288/ 200 ms)
+13:23:41 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (289/ 200 ms)
+13:24:11 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (289/ 200 ms)
+13:24:41 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (289/ 200 ms)
+13:25:09 Player WO1 D.Martin disconnected.
+13:25:11 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (289/ 200 ms)
+13:25:40 Player CPL A.Erickson disconnected.
+13:25:41 Slow network for player name='PV2 M.Mainu' ID=241557858, steamID=76561199200128375. Ping too high (288/ 200 ms)
+13:25:45 Player WO1 D.Thorn disconnected.
+13:26:01 Player PV2 M.Mainu disconnected.
+13:26:43 PVT J.Saoirse uses modified data file
+13:26:43 Player PVT J.Saoirse connecting.
+13:26:45 Player PVT J.Saoirse connected (id=76561198217073629).
+13:27:32 Player PVT J.Saoirse disconnected.
+13:27:58 WO1 D.Martin uses modified data file
+13:27:59 Player WO1 D.Martin connecting.
+13:28:00 Player WO1 D.Martin connected (id=76561198137109722).
+13:28:47 PVT J.Saoirse uses modified data file
+13:28:47 Player PVT J.Saoirse connecting.
+13:28:48 Player PVT J.Saoirse connected (id=76561198217073629).
+13:30:55 Player SGT X.Swoop disconnected.
+13:30:56 Player 2LT J.Duck disconnected.
+13:31:54 Slow network for player name='PV2 T.Mansour' ID=601398272, steamID=76561199261636966. Ping too high (208/ 200 ms)
+13:32:24 Slow network for player name='PV2 T.Mansour' ID=601398272, steamID=76561199261636966. Ping too high (203/ 200 ms)
+13:33:05 Player CW2 J.Fox disconnected.
+13:35:24 Slow network for player name='PV2 T.Mansour' ID=601398272, steamID=76561199261636966. Ping too high (201/ 200 ms)
+13:35:54 Slow network for player name='PV2 T.Mansour' ID=601398272, steamID=76561199261636966. Ping too high (210/ 200 ms)
+13:35:59 Player SPC J. Koe disconnected.
+13:36:00 Player PFC J.White disconnected.
+13:36:54 Slow network for player name='PV2 T.Mansour' ID=601398272, steamID=76561199261636966. Ping too high (204/ 200 ms)
+13:41:00 Player OCS D.Lotus disconnected.
+13:44:24 Slow network for player name='PV2 T.Mansour' ID=601398272, steamID=76561199261636966. Ping too high (203/ 200 ms)
+13:52:54 Slow network for player name='PV2 T.Mansour' ID=601398272, steamID=76561199261636966. Ping too high (216/ 200 ms)

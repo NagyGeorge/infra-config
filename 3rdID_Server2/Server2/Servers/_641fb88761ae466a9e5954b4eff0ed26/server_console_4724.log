@@ -1,0 +1,34 @@
+﻿18:49:47 Game Port: 2312, Steam Query Port: 2313
+18:49:47 Host identity created.
+12:53:22 SSG B.Fitzgerald uses modified data file
+12:53:22 Mission Operation Egyptian Collapse - Operation Sparta read from bank.
+12:53:24 Player SSG B.Fitzgerald connecting.
+12:53:25 Player SSG B.Fitzgerald connected (id=76561198101888577).
+12:53:29 Roles assigned.
+12:53:29 Reading mission ...
+12:53:38 Mission read.
+12:54:15 Game started.
+13:08:53 Game finished.
+class Session
+{
+	mission="Operation Egyptian Collapse - Operation Sparta";
+	island="kunduz_valley";
+	gameType="Coop";
+	duration=878.55707;
+	class Player1
+	{
+		name="SSG B.Fitzgerald";
+		killsInfantry=-2;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=-2;
+		killed=0;
+	};
+};
+13:08:54 Waiting for next game.
+13:08:54 Mission Operation Egyptian Collapse - Operation Sparta read from bank.
+13:08:56 Player SSG B.Fitzgerald disconnected.
+13:08:56 All users disconnected, waiting for users.

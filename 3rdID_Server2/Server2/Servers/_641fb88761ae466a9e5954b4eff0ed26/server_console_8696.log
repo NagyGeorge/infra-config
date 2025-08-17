@@ -1,0 +1,60 @@
+﻿21:04:01 Game Port: 2312, Steam Query Port: 2313
+21:04:01 Host identity created.
+21:05:00 SSG G.Nagy uses modified data file
+21:05:00 Mission Zeus_Chernarus_TF.chernarus_summer read from bank.
+21:05:03 Player SSG G.Nagy connecting.
+21:05:04 Player SSG G.Nagy connected (id=76561198042596091).
+21:05:20 Roles assigned.
+21:05:20 Reading mission ...
+21:05:23 Mission read.
+21:05:44 Game started.
+21:07:00 Game finished.
+class Session
+{
+	mission="Zeus_Chernarus_TF";
+	island="chernarus_summer";
+	gameType="Coop";
+	duration=76.029007;
+	class Player1
+	{
+		name="SSG G.Nagy";
+		killsInfantry=0;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=0;
+		killed=0;
+	};
+};
+21:07:00 Waiting for next game.
+21:07:01 Mission Zeus_Chernarus_TF.chernarus_summer read from bank.
+21:07:06 Roles assigned.
+21:07:06 Reading mission ...
+21:07:07 Mission read.
+21:07:32 Game started.
+21:07:54 Game finished.
+class Session
+{
+	mission="Zeus_Chernarus_TF";
+	island="chernarus_summer";
+	gameType="Coop";
+	duration=22.415001;
+	class Player1
+	{
+		name="SSG G.Nagy";
+		killsInfantry=0;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=0;
+		killed=0;
+	};
+};
+21:07:54 Waiting for next game.
+21:07:54 Mission Zeus_Chernarus_TF.chernarus_summer read from bank.
+21:07:57 Player SSG G.Nagy disconnected.
+21:07:57 All users disconnected, waiting for users.

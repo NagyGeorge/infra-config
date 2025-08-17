@@ -1,0 +1,455 @@
+﻿11:35:50 Game Port: 2312, Steam Query Port: 2313
+11:35:50 Host identity created.
+11:37:00 SSG G.Nagy uses modified data file
+11:37:00 Can't find a mission collection / mission with template name: 'Operation_Sparta.kunduz_valley', skipping to next mission.
+11:37:00 Player SSG G.Nagy connecting.
+11:37:02 Player SSG G.Nagy connected (id=76561198042596091).
+11:37:15 SPC K.Krios uses modified data file
+11:37:15 Player SPC K.Krios disconnected.
+11:37:18 Admin logged in, player: SSG G.Nagy, playerUID: 76561198042596091, IP: 192.168.1.51:2304.
+11:37:21 SPC L.Meadows uses modified data file
+11:37:22 Player SPC L.Meadows connecting.
+11:37:23 Player SPC L.Meadows connected (id=76561198107931484).
+11:37:29 Mission Zeus_Kunduz_River.kunduz_valley read from bank.
+11:37:38 Roles assigned.
+11:37:39 Reading mission ...
+11:37:42 Mission read.
+11:37:59 2LT A.Byrd uses modified data file
+11:38:00 Player 2LT A.Byrd connecting.
+11:38:01 Player 2LT A.Byrd connected (id=76561198120835371).
+11:38:13 Game started.
+11:38:24 SSG R.Ivanov uses modified data file
+11:38:25 Player SSG R.Ivanov connecting.
+11:38:26 Player SSG R.Ivanov connected (id=76561198016326368).
+11:38:42 CW2 D.Frost uses modified data file
+11:38:42 Player CW2 D.Frost connecting.
+11:38:44 Player CW2 D.Frost connected (id=76561198064885512).
+11:39:03 RGC H.Jäger uses modified data file
+11:39:03 Player RGC H.Jäger connecting.
+11:39:05 Player RGC H.Jäger connected (id=76561199010996421).
+11:39:16 Pvt W.Blackwell uses modified data file
+11:39:17 Player Pvt W.Blackwell connecting.
+11:39:18 Player Pvt W.Blackwell connected (id=76561198129811971).
+11:39:53 SPC N.McEnheimer uses modified data file
+11:39:53 Player SPC N.McEnheimer connecting.
+11:39:55 Player SPC N.McEnheimer connected (id=76561199586669985).
+11:39:58 Player Pvt W.Blackwell disconnected.
+11:40:15 SGT D.Schneider uses modified data file
+11:40:15 Player SGT D.Schneider connecting.
+11:40:17 Player SGT D.Schneider connected (id=76561198122457152).
+11:40:28 PV2 T.Mansour uses modified data file
+11:40:28 Player PV2 T.Mansour connecting.
+11:40:30 Player PV2 T.Mansour connected (id=76561199261636966).
+11:40:56 SPC A.Sapp uses modified data file
+11:40:56 Player SPC A.Sapp connecting.
+11:40:57 Player SPC A.Sapp connected (id=76561199789070521).
+11:41:02 PFC B.O'Connor uses modified data file
+11:41:03 Player PFC B.O'Connor connecting.
+11:41:04 Player PFC B.O'Connor connected (id=76561198380723487).
+11:41:11 SPC T.Hunter uses modified data file
+11:41:11 Player SPC T.Hunter connecting.
+11:41:12 Pvt W.Blackwell uses modified data file
+11:41:13 Player SPC T.Hunter connected (id=76561198153984825).
+11:41:13 Player Pvt W.Blackwell connecting.
+11:41:14 Player Pvt W.Blackwell connected (id=76561198129811971).
+11:41:17 SPC P.Byrde uses modified data file
+11:41:18 Player SPC P.Byrde connecting.
+11:41:19 Player SPC P.Byrde connected (id=76561197994265321).
+11:41:22 Player PFC B.O'Connor disconnected.
+11:41:57 SPC B.Hansen uses modified data file
+11:41:57 Player SPC B.Hansen connecting.
+11:41:59 Player SPC B.Hansen connected (id=76561198240446616).
+11:42:00 Player SPC L.Meadows disconnected.
+11:42:45 PFC B.O'Connor uses modified data file
+11:42:46 Player PFC B.O'Connor connecting.
+11:42:47 Player PFC B.O'Connor connected (id=76561198380723487).
+11:43:38 SPC L.Meadows uses modified data file
+11:43:38 Player SPC L.Meadows connecting.
+11:43:39 Player SPC L.Meadows connected (id=76561198107931484).
+11:43:53 OCS D.Lotus uses modified data file
+11:43:53 Player OCS D.Lotus connecting.
+11:43:55 Player OCS D.Lotus connected (id=76561198046799420).
+11:46:41 SGT X.Swoop uses modified data file
+11:46:42 Player SGT X.Swoop connecting.
+11:46:43 Player SGT X.Swoop connected (id=76561198006715620).
+11:47:59 SPC M.Allen uses modified data file
+11:48:00 Player SPC M.Allen connecting.
+11:48:01 Player SPC M.Allen connected (id=76561198337652878).
+11:49:16 SGT J.Starling uses modified data file
+11:49:16 Player SGT J.Starling connecting.
+11:49:18 Player SGT J.Starling connected (id=76561198135487458).
+11:49:24 SPC S.Magretson uses modified data file
+11:49:25 Player SPC S.Magretson connecting.
+11:49:27 Player SPC S.Magretson connected (id=76561198053206248).
+11:50:23 PV2 R.Batty uses modified data file
+11:50:25 Player PV2 R.Batty connecting.
+11:50:26 Player PV2 R.Batty connected (id=76561198029461563).
+11:50:44 CPL H.McMahon uses modified data file
+11:50:44 Player CPL H.McMahon connecting.
+11:50:46 Player CPL H.McMahon connected (id=76561198081273102).
+11:51:06 CW2 J.Fox uses modified data file
+11:51:07 Player CW2 J.Fox connecting.
+11:51:08 Player CW2 J.Fox connected (id=76561198118559844).
+11:51:14 PV2 D.Kale uses modified data file
+11:51:15 Player PV2 D.Kale connecting.
+11:51:16 Player PV2 D.Kale connected (id=76561198303754515).
+11:51:19 CPL A.Bills uses modified data file
+11:51:19 Player CPL A.Bills connecting.
+11:51:20 Player CPL A.Bills connected (id=76561198272434282).
+11:51:49 Player SPC B.Hansen is losing connection
+11:52:14 Player SGT J.Starling: Signature check timed out
+11:52:14 Player SGT J.Starling disconnected.
+11:52:26 SGT J.Starling uses modified data file
+11:52:27 Player SGT J.Starling connecting.
+11:52:29 Player SGT J.Starling connected (id=76561198135487458).
+11:53:09 Slow network for player name='SPC B.Hansen', ID=270686069, steamID=76561198240446616. DisconnectTimeout too high (1/90000 ms)
+11:53:14 SPC B.Bishop uses modified data file
+11:53:14 Player SPC B.Bishop connecting.
+11:53:15 Player SPC B.Bishop connected (id=76561198076022373).
+11:55:11 Player SPC B.Hansen disconnected.
+11:56:52 Player RGC H.Jäger disconnected.
+11:56:54 SPC B.Hansen uses modified data file
+11:56:54 Player SPC B.Hansen connecting.
+11:56:55 Player SPC B.Hansen connected (id=76561198240446616).
+11:58:00 Slow network for player name='CPL H.McMahon' ID=529184715, steamID=76561198081273102. Ping too high (1121/ 200 ms)
+11:58:30 Slow network for player name='CPL H.McMahon' ID=529184715, steamID=76561198081273102. Ping too high (866/ 200 ms)
+11:59:00 Slow network for player name='CPL H.McMahon' ID=529184715, steamID=76561198081273102. Ping too high (508/ 200 ms)
+11:59:30 Slow network for player name='CPL H.McMahon' ID=529184715, steamID=76561198081273102. Ping too high (549/ 200 ms)
+12:02:02 WOC D.Martin uses modified data file
+12:02:03 Player WOC D.Martin connecting.
+12:02:04 Player WOC D.Martin connected (id=76561198137109722).
+12:02:22 PFC T.Anderson uses modified data file
+12:02:22 Player PFC T.Anderson connecting.
+12:02:23 Player PFC T.Anderson connected (id=76561198053111736).
+12:05:01 Player Pvt W.Blackwell disconnected.
+12:05:09 Pvt W.Blackwell uses modified data file
+12:05:09 Player Pvt W.Blackwell connecting.
+12:05:10 Player PV2 R.Batty disconnected.
+12:05:10 Player Pvt W.Blackwell connected (id=76561198129811971).
+12:06:02 Player WOC D.Martin disconnected.
+12:13:46 Player CW2 J.Fox disconnected.
+12:14:07 Player CW2 D.Frost disconnected.
+12:18:53 Player OCS D.Lotus disconnected.
+12:19:54 Player SPC B.Hansen is losing connection
+12:21:14 Slow network for player name='SPC B.Hansen', ID=258415696, steamID=76561198240446616. DisconnectTimeout too high (5/90000 ms)
+12:22:52 Player SPC B.Hansen disconnected.
+12:23:38 WOC D.Martin uses modified data file
+12:23:39 Player WOC D.Martin connecting.
+12:23:40 Player WOC D.Martin connected (id=76561198137109722).
+12:24:05 Player WOC D.Martin disconnected.
+12:24:47 SPC B.Hansen uses modified data file
+12:24:47 Player SPC B.Hansen connecting.
+12:24:48 Player SPC B.Hansen connected (id=76561198240446616).
+12:24:51 RGC N.Irwin uses modified data file
+12:24:51 Player RGC N.Irwin disconnected.
+12:25:06 WOC D.Martin uses modified data file
+12:25:06 Player WOC D.Martin connecting.
+12:25:07 Player WOC D.Martin connected (id=76561198137109722).
+12:29:59 SPC A.Borovetski uses modified data file
+12:29:59 Player SPC A.Borovetski connecting.
+12:30:00 Player SPC A.Borovetski connected (id=76561198072101545).
+12:32:00 CW2 J.Tracey uses modified data file
+12:32:01 Player CW2 J.Tracey connecting.
+12:32:02 Player CW2 J.Tracey connected (id=76561198144601440).
+12:52:19 CW2 J.Fox uses modified data file
+12:52:19 Player CW2 J.Fox connecting.
+12:52:21 Player CW2 J.Fox connected (id=76561198118559844).
+13:06:14 Player SSG G.Nagy disconnected.
+13:06:14 Admin logged out, player: SSG G.Nagy, playerUID: 76561198042596091, IP: 192.168.1.51:2304.
+13:10:07 Player SGT J.Starling disconnected.
+13:10:09 Player PFC T.Anderson disconnected.
+13:10:16 Player CPL H.McMahon disconnected.
+13:10:23 Player SGT X.Swoop disconnected.
+13:10:31 Player PFC B.O'Connor disconnected.
+13:16:37 Player SGT D.Schneider disconnected.
+13:21:57 Player SPC M.Allen disconnected.
+13:22:46 Slow network for player name='Pvt W.Blackwell' ID=1920880146, steamID=76561198129811971. Ping too high (215/ 200 ms)
+13:24:25 Player SPC B.Hansen is losing connection
+13:25:45 Slow network for player name='SPC B.Hansen', ID=275338141, steamID=76561198240446616. DisconnectTimeout too high (15/90000 ms)
+13:27:19 Player SPC B.Hansen disconnected.
+13:28:31 Player CW2 J.Fox disconnected.
+13:28:41 Player WOC D.Martin disconnected.
+13:29:04 Player CW2 J.Tracey disconnected.
+13:29:38 SPC B.Hansen uses modified data file
+13:29:38 Player SPC B.Hansen connecting.
+13:29:39 Player SPC B.Hansen connected (id=76561198240446616).
+13:45:40 Player SPC P.Byrde is losing connection
+13:46:55 Player SPC B.Bishop disconnected.
+13:46:58 Player SPC N.McEnheimer disconnected.
+13:47:00 Slow network for player name='SPC P.Byrde', ID=733399934, steamID=76561197994265321. DisconnectTimeout too high (0/90000 ms)
+13:47:02 Player SSG R.Ivanov disconnected.
+13:47:04 Player PV2 D.Kale disconnected.
+13:47:06 Player SPC T.Hunter disconnected.
+13:47:09 Player SPC A.Sapp disconnected.
+13:47:29 Player PV2 T.Mansour disconnected.
+13:48:17 Player SPC A.Borovetski disconnected.
+13:48:42 Player SPC P.Byrde disconnected.
+13:49:08 Player SPC B.Hansen disconnected.
+13:49:14 Player SPC L.Meadows disconnected.
+13:49:17 Player 2LT A.Byrd disconnected.
+13:49:22 Player Pvt W.Blackwell disconnected.
+13:50:57 Player CPL A.Bills disconnected.
+13:51:08 Player SPC S.Magretson disconnected.
+13:51:08 All users disconnected, waiting for users.
+14:26:01 Pvt W.Blackwell uses modified data file
+14:26:02 Player Pvt W.Blackwell connecting.
+14:26:04 Player Pvt W.Blackwell connected (id=76561198129811971).
+14:29:09 Player Pvt W.Blackwell disconnected.
+14:29:30 Pvt W.Blackwell uses modified data file
+14:29:30 Player Pvt W.Blackwell connecting.
+14:29:32 Player Pvt W.Blackwell connected (id=76561198129811971).
+14:30:34 Player Pvt W.Blackwell disconnected.
+14:36:47 Pvt W.Blackwell uses modified data file
+14:36:48 Player Pvt W.Blackwell connecting.
+14:36:50 Player Pvt W.Blackwell connected (id=76561198129811971).
+14:37:52 SPC A.Sapp uses modified data file
+14:37:52 Player SPC A.Sapp connecting.
+14:37:54 Player SPC A.Sapp connected (id=76561199789070521).
+14:38:36 Player SPC A.Sapp disconnected.
+14:40:11 Player Pvt W.Blackwell disconnected.
+14:40:24 Pvt W.Blackwell uses modified data file
+14:40:25 Player Pvt W.Blackwell connecting.
+14:40:27 Player Pvt W.Blackwell connected (id=76561198129811971).
+14:43:52 Player Pvt W.Blackwell disconnected.
+14:44:53 Pvt W.Blackwell uses modified data file
+14:44:54 Player Pvt W.Blackwell connecting.
+14:44:56 Player Pvt W.Blackwell connected (id=76561198129811971).
+14:46:27 Player Pvt W.Blackwell disconnected.
+14:47:21 Pvt W.Blackwell uses modified data file
+14:47:22 Player Pvt W.Blackwell connecting.
+14:47:23 Player Pvt W.Blackwell connected (id=76561198129811971).
+14:52:29 Player Pvt W.Blackwell disconnected.
+14:53:54 Pvt W.Blackwell uses modified data file
+14:53:54 Player Pvt W.Blackwell connecting.
+14:53:56 Player Pvt W.Blackwell connected (id=76561198129811971).
+14:54:20 SSG B.Fitzgerald uses modified data file
+14:54:21 Player SSG B.Fitzgerald connecting.
+14:54:22 Player SSG B.Fitzgerald connected (id=76561198101888577).
+14:54:35 Admin logged in, player: SSG B.Fitzgerald, playerUID: 76561198101888577, IP: 26.130.77.68:2304.
+14:54:48 Mission Ft_Benning_Chernarus_OSUT_v1.chernarus_summer read from bank.
+14:54:54 Roles assigned.
+14:54:54 Reading mission ...
+14:55:03 Mission read.
+14:55:47 Game started.
+14:55:58 Player SSG B.Fitzgerald disconnected.
+14:55:58 Admin logged out, player: SSG B.Fitzgerald, playerUID: 76561198101888577, IP: 26.130.77.68:2304.
+14:56:03 SGT X.Swoop uses modified data file
+14:56:03 Player SGT X.Swoop connecting.
+14:56:04 Player SGT X.Swoop connected (id=76561198006715620).
+14:56:10 CPL M.Marsh uses modified data file
+14:56:10 Player CPL M.Marsh connecting.
+14:56:12 Player CPL M.Marsh connected (id=76561198026987259).
+14:56:13 lanej uses modified data file
+14:56:13 Player lanej disconnected.
+14:56:52 PFC E.Marsh uses modified data file
+14:56:53 Player PFC E.Marsh connecting.
+14:56:54 Player PFC E.Marsh connected (id=76561197995753794).
+14:56:56 SPC A.Sapp uses modified data file
+14:56:56 Player SPC A.Sapp connecting.
+14:56:57 Player SPC A.Sapp connected (id=76561199789070521).
+15:00:04 lanej uses modified data file
+15:00:05 Player lanej connecting.
+15:00:08 Player lanej connected (id=76561199067229320).
+15:00:43 Slow network for player name='lanej' ID=546085796, steamID=76561199067229320. Ping too high (227/ 200 ms)
+15:01:13 Slow network for player name='lanej' ID=546085796, steamID=76561199067229320. Ping too high (218/ 200 ms)
+15:01:32 SGT D.Schneider uses modified data file
+15:01:33 Player SGT D.Schneider connecting.
+15:01:34 Player SGT D.Schneider connected (id=76561198122457152).
+15:01:39 Slow network for player name='lanej' ID=546085796, steamID=76561199067229320. Ping too high (222/ 200 ms)
+15:02:09 Slow network for player name='lanej' ID=546085796, steamID=76561199067229320. Ping too high (312/ 200 ms)
+15:02:39 Slow network for player name='lanej' ID=546085796, steamID=76561199067229320. Ping too high (219/ 200 ms)
+15:03:09 Slow network for player name='lanej' ID=546085796, steamID=76561199067229320. Ping too high (267/ 200 ms)
+15:03:39 Slow network for player name='lanej' ID=546085796, steamID=76561199067229320. Ping too high (215/ 200 ms)
+15:04:09 Slow network for player name='lanej' ID=546085796, steamID=76561199067229320. Ping too high (294/ 200 ms)
+15:04:39 Slow network for player name='lanej' ID=546085796, steamID=76561199067229320. Ping too high (236/ 200 ms)
+15:05:09 Slow network for player name='lanej' ID=546085796, steamID=76561199067229320. Ping too high (232/ 200 ms)
+15:05:39 Slow network for player name='lanej' ID=546085796, steamID=76561199067229320. Ping too high (215/ 200 ms)
+15:06:09 Slow network for player name='lanej' ID=546085796, steamID=76561199067229320. Ping too high (224/ 200 ms)
+15:06:39 Slow network for player name='lanej' ID=546085796, steamID=76561199067229320. Ping too high (211/ 200 ms)
+15:07:09 Slow network for player name='lanej' ID=546085796, steamID=76561199067229320. Ping too high (396/ 200 ms)
+15:07:39 Slow network for player name='lanej' ID=546085796, steamID=76561199067229320. Ping too high (292/ 200 ms)
+15:08:09 Slow network for player name='lanej' ID=546085796, steamID=76561199067229320. Ping too high (252/ 200 ms)
+15:08:39 Slow network for player name='lanej' ID=546085796, steamID=76561199067229320. Ping too high (295/ 200 ms)
+15:09:00 Player lanej is losing connection
+15:09:09 Slow network for player name='lanej' ID=546085796, steamID=76561199067229320. Ping too high (332/ 200 ms)
+15:09:39 Slow network for player name='lanej' ID=546085796, steamID=76561199067229320. Ping too high (332/ 200 ms)
+15:10:09 Slow network for player name='lanej' ID=546085796, steamID=76561199067229320. Ping too high (332/ 200 ms)
+15:10:20 Slow network for player name='lanej', ID=546085796, steamID=76561199067229320. DisconnectTimeout too high (1/90000 ms)
+15:10:24 Player lanej disconnected.
+15:10:24 lanej uses modified data file
+15:10:32 Player lanej disconnected.
+15:10:49 lanej uses modified data file
+15:10:50 Player lanej connecting.
+15:10:52 Player lanej connected (id=76561199067229320).
+15:14:38 Player SPC A.Sapp disconnected.
+15:15:32 SPC A.Sapp uses modified data file
+15:15:33 Player SPC A.Sapp connecting.
+15:15:34 Player SPC A.Sapp connected (id=76561199789070521).
+15:18:36 PV2 T.Mansour uses modified data file
+15:18:38 Player PV2 T.Mansour connecting.
+15:18:39 Player PV2 T.Mansour connected (id=76561199261636966).
+15:19:02 Player PV2 T.Mansour disconnected.
+15:23:14 Player lanej disconnected.
+15:24:25 SPC P.Byrde uses modified data file
+15:24:25 Player SPC P.Byrde connecting.
+15:24:27 Player SPC P.Byrde connected (id=76561197994265321).
+15:40:01 Player SGT D.Schneider disconnected.
+16:00:03 Slow network for player name='Pvt W.Blackwell' ID=1308789696, steamID=76561198129811971. Ping too high (266/ 200 ms)
+16:15:03 Slow network for player name='Pvt W.Blackwell' ID=1308789696, steamID=76561198129811971. Ping too high (205/ 200 ms)
+16:34:49 Player SPC A.Sapp disconnected.
+16:43:04 Slow network for player name='SPC P.Byrde' ID=1236702485, steamID=76561197994265321. Ping too high (210/ 200 ms)
+16:47:04 Slow network for player name='SPC P.Byrde' ID=1236702485, steamID=76561197994265321. Ping too high (232/ 200 ms)
+16:47:34 Slow network for player name='SPC P.Byrde' ID=1236702485, steamID=76561197994265321. Ping too high (229/ 200 ms)
+16:55:34 Slow network for player name='SPC P.Byrde' ID=1236702485, steamID=76561197994265321. Ping too high (217/ 200 ms)
+16:56:04 Slow network for player name='SPC P.Byrde' ID=1236702485, steamID=76561197994265321. Ping too high (314/ 200 ms)
+17:15:04 Slow network for player name='SPC P.Byrde' ID=1236702485, steamID=76561197994265321. Ping too high (211/ 200 ms)
+17:21:28 Player SPC P.Byrde is losing connection
+17:23:04 Slow network for player name='SPC P.Byrde' ID=1236702485, steamID=76561197994265321. Ping too high (202/ 200 ms)
+17:26:34 Slow network for player name='Pvt W.Blackwell' ID=1308789696, steamID=76561198129811971. Ping too high (281/ 200 ms)
+17:27:04 Slow network for player name='Pvt W.Blackwell' ID=1308789696, steamID=76561198129811971. Ping too high (381/ 200 ms)
+17:27:34 Slow network for player name='Pvt W.Blackwell' ID=1308789696, steamID=76561198129811971. Ping too high (222/ 200 ms)
+17:28:34 Slow network for player name='Pvt W.Blackwell' ID=1308789696, steamID=76561198129811971. Ping too high (206/ 200 ms)
+17:29:05 Slow network for player name='Pvt W.Blackwell' ID=1308789696, steamID=76561198129811971. Ping too high (212/ 200 ms)
+17:29:35 Slow network for player name='Pvt W.Blackwell' ID=1308789696, steamID=76561198129811971. Ping too high (270/ 200 ms)
+17:30:39 Player SPC P.Byrde disconnected.
+17:33:35 Slow network for player name='Pvt W.Blackwell' ID=1308789696, steamID=76561198129811971. Ping too high (216/ 200 ms)
+17:39:05 Slow network for player name='Pvt W.Blackwell' ID=1308789696, steamID=76561198129811971. Ping too high (267/ 200 ms)
+17:39:35 Slow network for player name='Pvt W.Blackwell' ID=1308789696, steamID=76561198129811971. Ping too high (228/ 200 ms)
+17:40:05 Slow network for player name='Pvt W.Blackwell' ID=1308789696, steamID=76561198129811971. Ping too high (208/ 200 ms)
+17:40:35 Slow network for player name='Pvt W.Blackwell' ID=1308789696, steamID=76561198129811971. Ping too high (215/ 200 ms)
+17:41:35 Slow network for player name='Pvt W.Blackwell' ID=1308789696, steamID=76561198129811971. Ping too high (218/ 200 ms)
+17:42:05 Slow network for player name='Pvt W.Blackwell' ID=1308789696, steamID=76561198129811971. Ping too high (300/ 200 ms)
+17:43:35 Slow network for player name='Pvt W.Blackwell' ID=1308789696, steamID=76561198129811971. Ping too high (203/ 200 ms)
+17:44:05 Slow network for player name='Pvt W.Blackwell' ID=1308789696, steamID=76561198129811971. Ping too high (241/ 200 ms)
+17:48:05 Slow network for player name='Pvt W.Blackwell' ID=1308789696, steamID=76561198129811971. Ping too high (208/ 200 ms)
+17:48:35 Slow network for player name='Pvt W.Blackwell' ID=1308789696, steamID=76561198129811971. Ping too high (226/ 200 ms)
+17:50:05 Slow network for player name='Pvt W.Blackwell' ID=1308789696, steamID=76561198129811971. Ping too high (217/ 200 ms)
+17:50:35 Slow network for player name='Pvt W.Blackwell' ID=1308789696, steamID=76561198129811971. Ping too high (246/ 200 ms)
+17:51:05 Slow network for player name='Pvt W.Blackwell' ID=1308789696, steamID=76561198129811971. Ping too high (243/ 200 ms)
+17:57:05 Slow network for player name='Pvt W.Blackwell' ID=1308789696, steamID=76561198129811971. Ping too high (203/ 200 ms)
+17:58:05 Slow network for player name='Pvt W.Blackwell' ID=1308789696, steamID=76561198129811971. Ping too high (266/ 200 ms)
+17:58:35 Slow network for player name='Pvt W.Blackwell' ID=1308789696, steamID=76561198129811971. Ping too high (217/ 200 ms)
+18:04:05 Slow network for player name='Pvt W.Blackwell' ID=1308789696, steamID=76561198129811971. Ping too high (208/ 200 ms)
+18:05:05 Slow network for player name='Pvt W.Blackwell' ID=1308789696, steamID=76561198129811971. Ping too high (201/ 200 ms)
+18:09:05 Slow network for player name='Pvt W.Blackwell' ID=1308789696, steamID=76561198129811971. Ping too high (215/ 200 ms)
+18:18:13 Player SGT X.Swoop disconnected.
+18:18:18 Player PFC E.Marsh disconnected.
+18:18:21 Player Pvt W.Blackwell disconnected.
+18:18:23 Game finished.
+class Session
+{
+	mission="Fort Benning OSUT Chernarus v1";
+	island="chernarus_summer";
+	gameType="";
+	duration=12155.521;
+	class Player1
+	{
+		name="Pvt W.Blackwell";
+		killsInfantry=0;
+		killsSoft=3;
+		killsArmor=1;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=9;
+		killed=0;
+	};
+	class Player2
+	{
+		name="CPL M.Marsh";
+		killsInfantry=0;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=0;
+		killed=0;
+	};
+	class Player3
+	{
+		name="lanej";
+		killsInfantry=0;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=0;
+		killed=0;
+	};
+	class Player4
+	{
+		name="SGT D.Schneider";
+		killsInfantry=0;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=0;
+		killed=0;
+	};
+	class Player5
+	{
+		name="SGT X.Swoop";
+		killsInfantry=0;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=0;
+		killed=0;
+	};
+	class Player6
+	{
+		name="SPC A.Sapp";
+		killsInfantry=0;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=0;
+		killed=0;
+	};
+	class Player7
+	{
+		name="SPC P.Byrde";
+		killsInfantry=0;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=0;
+		killed=0;
+	};
+	class Player8
+	{
+		name="SSG B.Fitzgerald";
+		killsInfantry=0;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=0;
+		killed=0;
+	};
+	class Player9
+	{
+		name="PFC E.Marsh";
+		killsInfantry=0;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=0;
+		killed=1;
+	};
+};
+18:18:23 Waiting for next game.
+18:21:50 Player CPL M.Marsh disconnected.

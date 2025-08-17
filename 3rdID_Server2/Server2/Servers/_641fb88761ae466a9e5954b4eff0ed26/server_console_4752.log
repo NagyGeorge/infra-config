@@ -1,0 +1,104 @@
+﻿19:25:38 Game Port: 2312, Steam Query Port: 2313
+19:25:38 Host identity created.
+19:26:25 SSG G.Nagy uses modified data file
+19:26:25 Mission Ft_Benning_Chernarus_OSUT_v1.chernarus_summer read from bank.
+19:26:27 Player SSG G.Nagy connecting.
+19:26:28 Player SSG G.Nagy connected (id=76561198042596091).
+19:26:42 Roles assigned.
+19:26:42 Reading mission ...
+19:26:48 Mission read.
+19:27:12 Game started.
+19:27:36 Game finished.
+class Session
+{
+	mission="Fort Benning OSUT Chernarus v1";
+	island="chernarus_summer";
+	gameType="";
+	duration=23.394001;
+	class Player1
+	{
+		name="SSG G.Nagy";
+		killsInfantry=0;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=0;
+		killed=0;
+	};
+};
+19:27:36 Waiting for next game.
+19:27:36 Mission Ft_Benning_Chernarus_OSUT_v1.chernarus_summer read from bank.
+19:27:39 Player SSG G.Nagy disconnected.
+19:27:39 All users disconnected, waiting for users.
+ 2:59:04 SPC D.Hughson uses modified data file
+ 2:59:04 Mission Ft_Benning_Chernarus_OSUT_v1.chernarus_summer read from bank.
+ 2:59:04 Player SPC D.Hughson disconnected.
+ 2:59:04 All users disconnected, waiting for users.
+ 8:56:06 1LT N.Cooper uses modified data file
+ 8:56:06 Mission Ft_Benning_Chernarus_OSUT_v1.chernarus_summer read from bank.
+ 8:56:07 Player 1LT N.Cooper connecting.
+ 8:56:08 Player 1LT N.Cooper connected (id=76561198020380389).
+ 8:56:35 Roles assigned.
+ 8:56:35 Reading mission ...
+ 8:56:38 Mission read.
+ 8:57:05 Game started.
+ 8:57:31 Wrong admin password entered by player: 1LT N.Cooper, playerUID: 76561198020380389, IP: 192.168.178.110:2304.
+ 8:57:40 Wrong admin password entered by player: 1LT N.Cooper, playerUID: 76561198020380389, IP: 192.168.178.110:2304.
+ 8:57:50 Wrong admin password entered by player: 1LT N.Cooper, playerUID: 76561198020380389, IP: 192.168.178.110:2304.
+ 8:57:54 Voted admin logged in, player: 1LT N.Cooper, playerUID: 76561198020380389, IP: 192.168.178.110:2304.
+ 8:58:02 Game restarted
+class Session
+{
+	mission="Fort Benning OSUT Chernarus v1";
+	island="chernarus_summer";
+	gameType="";
+	duration=57.282001;
+	class Player1
+	{
+		name="1LT N.Cooper";
+		killsInfantry=0;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=0;
+		killed=0;
+	};
+};
+ 8:58:04 Waiting for next game.
+ 8:58:33 Mission Operation Egyptian Collapse - Operation Sparta read from bank.
+ 8:58:49 Player 1LT N.Cooper disconnected.
+ 8:58:49 Voted admin logged out, player: 1LT N.Cooper, playerUID: 76561198020380389, IP: 192.168.178.110:2304.
+ 8:58:49 All users disconnected, waiting for users.
+ 8:58:56 1LT N.Cooper uses modified data file
+ 8:58:56 Mission Ft_Benning_Chernarus_OSUT_v1.chernarus_summer read from bank.
+ 8:58:57 Player 1LT N.Cooper connecting.
+ 8:58:59 Player 1LT N.Cooper connected (id=76561198020380389).
+ 8:59:34 Roles assigned.
+ 8:59:34 Reading mission ...
+ 8:59:36 Mission read.
+ 9:00:00 Game started.
+ 9:01:05 Voted admin logged in, player: 1LT N.Cooper, playerUID: 76561198020380389, IP: 192.168.178.110:2304.
+ 9:01:27 Game restarted
+class Session
+{
+	mission="Fort Benning OSUT Chernarus v1";
+	island="chernarus_summer";
+	gameType="";
+	duration=86.876007;
+	class Player1
+	{
+		name="1LT N.Cooper";
+		killsInfantry=0;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=0;
+		killed=0;
+	};
+};

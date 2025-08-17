@@ -1,0 +1,224 @@
+﻿22:30:32 Game Port: 2312, Steam Query Port: 2313
+22:30:32 Host identity created.
+ 7:14:39 WO1 D.Thorn uses modified data file
+ 7:14:39 Mission Operation Egyptian Collapse - Operation Sparta read from bank.
+ 7:14:41 Player WO1 D.Thorn connecting.
+ 7:14:42 Player WO1 D.Thorn connected (id=76561198333888307).
+ 7:14:58 Player WO1 D.Thorn disconnected.
+ 7:14:58 All users disconnected, waiting for users.
+ 7:21:14 CW2 J.Fox uses modified data file
+ 7:21:14 Mission Operation Egyptian Collapse - Operation Sparta read from bank.
+ 7:21:16 Player CW2 J.Fox connecting.
+ 7:21:17 Player CW2 J.Fox connected (id=76561198118559844).
+ 7:21:31 Player CW2 J.Fox disconnected.
+ 7:21:31 All users disconnected, waiting for users.
+ 7:24:49 SSG B.Fitzgerald uses modified data file
+ 7:24:49 Mission Operation Egyptian Collapse - Operation Sparta read from bank.
+ 7:24:51 Player SSG B.Fitzgerald connecting.
+ 7:24:52 Player SSG B.Fitzgerald connected (id=76561198101888577).
+ 7:25:27 Player SSG B.Fitzgerald disconnected.
+ 7:25:27 All users disconnected, waiting for users.
+ 7:25:38 SSG B.Fitzgerald uses modified data file
+ 7:25:38 Mission Operation Egyptian Collapse - Operation Sparta read from bank.
+ 7:25:39 Player SSG B.Fitzgerald connecting.
+ 7:25:41 Player SSG B.Fitzgerald connected (id=76561198101888577).
+ 7:27:04 Wrong admin password entered by player: SSG B.Fitzgerald, playerUID: 76561198101888577, IP: 26.130.77.68:2304.
+ 7:27:08 Roles assigned.
+ 7:27:08 Reading mission ...
+ 7:27:17 Mission read.
+ 7:27:19 Admin logged in, player: SSG B.Fitzgerald, playerUID: 76561198101888577, IP: 26.130.77.68:2304.
+ 7:27:30 Mission Chernarus_Airborne-AirAssault-Land_Nav_v1.chernarus_summer read from bank.
+ 7:27:34 Roles assigned.
+ 7:27:34 Reading mission ...
+ 7:27:41 Mission read.
+ 7:27:41 WO1 D.Thorn uses modified data file
+ 7:27:42 Player WO1 D.Thorn connecting.
+ 7:27:44 Player WO1 D.Thorn connected (id=76561198333888307).
+ 7:30:25 PVC J.Reser uses modified data file
+ 7:30:26 Player PVC J.Reser connecting.
+ 7:30:27 Player PVC J.Reser connected (id=76561199122184836).
+ 7:30:47 SPC P.MacTavish uses modified data file
+ 7:30:48 Player SPC P.MacTavish connecting.
+ 7:30:49 Player SPC P.MacTavish connected (id=76561198176499965).
+ 7:30:50 Player PVC J.Reser disconnected.
+ 7:31:11 PFC J.Reser uses modified data file
+ 7:31:12 Player PFC J.Reser connecting.
+ 7:31:13 Player PFC J.Reser connected (id=76561199122184836).
+ 7:32:06 Game started.
+ 7:32:13 CW2 J.Fox uses modified data file
+ 7:32:13 Player CW2 J.Fox connecting.
+ 7:32:14 Player CW2 J.Fox connected (id=76561198118559844).
+ 7:33:42 PV2 J.Winchester uses modified data file
+ 7:33:42 Player PV2 J.Winchester connecting.
+ 7:33:44 Player PV2 J.Winchester connected (id=76561198152678295).
+ 7:42:51 CPL H.Jäger uses modified data file
+ 7:42:52 Player CPL H.Jäger connecting.
+ 7:42:53 Player CPL H.Jäger connected (id=76561199010996421).
+ 7:46:07 PV2 R.Batty uses modified data file
+ 7:46:09 Player PV2 R.Batty connecting.
+ 7:46:11 Player PV2 R.Batty connected (id=76561198029461563).
+ 7:47:58 SPC D.Hughson uses modified data file
+ 7:47:58 Player SPC D.Hughson disconnected.
+ 7:53:12 SPC D.Hughson uses modified data file
+ 7:53:13 Player SPC D.Hughson connecting.
+ 7:53:14 Player SPC D.Hughson connected (id=76561197988264299).
+ 8:50:23 SSG G.Nagy uses modified data file
+ 8:50:23 Player SSG G.Nagy connecting.
+ 8:50:24 Player SSG G.Nagy connected (id=76561198042596091).
+ 8:54:56 PVT D. Kale uses modified data file
+ 8:54:56 Player PVT D. Kale disconnected.
+ 9:03:32 PVT D.Kale uses modified data file
+ 9:03:32 Player PVT D.Kale disconnected.
+ 9:15:39 Player CW2 J.Fox disconnected.
+ 9:15:49 Player PFC J.Reser disconnected.
+ 9:16:16 Player SPC P.MacTavish disconnected.
+ 9:21:45 Player PV2 J.Winchester disconnected.
+ 9:22:10 Player WO1 D.Thorn disconnected.
+ 9:22:10 Player SSG G.Nagy disconnected.
+ 9:32:15 Player SSG B.Fitzgerald disconnected.
+ 9:32:15 Admin logged out, player: SSG B.Fitzgerald, playerUID: 76561198101888577, IP: 26.130.77.68:2304.
+ 9:32:47 Player CPL H.Jäger disconnected.
+ 9:32:50 Player SPC D.Hughson disconnected.
+ 9:32:58 Game finished.
+class Session
+{
+	mission="Chernarus_Airborne-AirAssault-Land_Nav_v1";
+	island="chernarus_summer";
+	gameType="Coop";
+	duration=7252.4873;
+	class Player1
+	{
+		name="PV2 R.Batty";
+		killsInfantry=20;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=20;
+		killed=0;
+	};
+	class Player2
+	{
+		name="SPC D.Hughson";
+		killsInfantry=18;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=18;
+		killed=0;
+	};
+	class Player3
+	{
+		name="CPL H.Jäger";
+		killsInfantry=8;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=8;
+		killed=0;
+	};
+	class Player4
+	{
+		name="SSG B.Fitzgerald";
+		killsInfantry=0;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=0;
+		killed=0;
+	};
+	class Player5
+	{
+		name="SSG G.Nagy";
+		killsInfantry=0;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=0;
+		killed=0;
+	};
+	class Player6
+	{
+		name="WO1 D.Thorn";
+		killsInfantry=0;
+		killsSoft=-1;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=-2;
+		killed=0;
+	};
+	class Player7
+	{
+		name="CW2 J.Fox";
+		killsInfantry=0;
+		killsSoft=-2;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=-4;
+		killed=0;
+	};
+	class Player8
+	{
+		name="PV2 J.Winchester";
+		killsInfantry=0;
+		killsSoft=-2;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=-4;
+		killed=0;
+	};
+	class Player9
+	{
+		name="PFC J.Reser";
+		killsInfantry=0;
+		killsSoft=-3;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=-6;
+		killed=0;
+	};
+	class Player10
+	{
+		name="SPC P.MacTavish";
+		killsInfantry=0;
+		killsSoft=-3;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=-6;
+		killed=0;
+	};
+};
+ 9:32:58 Waiting for next game.
+ 9:32:59 Mission Operation Egyptian Collapse - Operation Sparta read from bank.
+ 9:33:03 Player PV2 R.Batty disconnected.
+ 9:33:03 All users disconnected, waiting for users.
+ 9:33:39 PVT D.Kale uses modified data file
+ 9:33:40 Mission Operation Egyptian Collapse - Operation Sparta read from bank.
+ 9:33:41 Player PVT D.Kale connecting.
+ 9:33:42 Player PVT D.Kale connected (id=76561198303754515).
+ 9:34:35 Roles assigned.
+ 9:34:35 Reading mission ...
+ 9:34:42 Mission read.
+ 9:35:30 Game started.
+ 9:39:26 CPL A.Bills uses modified data file
+ 9:39:27 Player CPL A.Bills connecting.
+ 9:39:28 Player CPL A.Bills connected (id=76561198272434282).

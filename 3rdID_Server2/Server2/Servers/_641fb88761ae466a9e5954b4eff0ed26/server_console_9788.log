@@ -1,0 +1,62 @@
+﻿12:46:15 Game Port: 2312, Steam Query Port: 2313
+12:46:15 Host identity created.
+12:49:26 SSG B.Fitzgerald uses modified data file
+12:49:26 Mission Ft_Benning_Chernarus_OSUT_v1.chernarus_summer read from bank.
+12:49:29 Player SSG B.Fitzgerald connecting.
+12:49:30 Player SSG B.Fitzgerald connected (id=76561198101888577).
+12:49:35 Roles assigned.
+12:49:35 Reading mission ...
+12:49:41 Mission read.
+12:50:07 Game started.
+12:50:49 Game finished.
+class Session
+{
+	mission="Fort Benning OSUT Chernarus v1";
+	island="chernarus_summer";
+	gameType="";
+	duration=42.033001;
+	class Player1
+	{
+		name="SSG B.Fitzgerald";
+		killsInfantry=0;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=0;
+		killed=0;
+	};
+};
+12:50:49 Waiting for next game.
+12:50:49 Mission Ft_Benning_Chernarus_OSUT_v1.chernarus_summer read from bank.
+12:52:19 Roles assigned.
+12:52:19 Reading mission ...
+12:52:22 Mission read.
+12:52:52 PV2 S.Guss uses modified data file
+12:52:53 Player PV2 S.Guss connecting.
+12:52:54 Player PV2 S.Guss connected (id=76561198028586703).
+12:52:56 Admin logged in, player: SSG B.Fitzgerald, playerUID: 76561198101888577, IP: 26.130.77.68:2304.
+12:53:05 Player PV2 S.Guss disconnected.
+12:54:08 Player SSG B.Fitzgerald disconnected.
+12:54:08 Admin logged out, player: SSG B.Fitzgerald, playerUID: 76561198101888577, IP: 26.130.77.68:2304.
+12:54:08 All users disconnected, waiting for users.
+12:56:29 PVT S.Guss uses modified data file
+12:56:29 Mission Ft_Benning_Chernarus_OSUT_v1.chernarus_summer read from bank.
+12:56:31 Player PVT S.Guss connecting.
+12:56:32 Player PVT S.Guss connected (id=76561198028586703).
+12:57:12 SSG B.Fitzgerald uses modified data file
+12:57:12 Player SSG B.Fitzgerald connecting.
+12:57:14 Player SSG B.Fitzgerald connected (id=76561198101888577).
+12:57:59 Roles assigned.
+12:57:59 Reading mission ...
+12:58:02 Mission read.
+12:58:27 Game started.
+13:01:04 CPL M.Marsh uses modified data file
+13:01:04 Player CPL M.Marsh connecting.
+13:01:06 Player CPL M.Marsh connected (id=76561198026987259).
+14:12:21 1LT N.Cooper uses modified data file
+14:12:22 Player 1LT N.Cooper connecting.
+14:12:23 Player 1LT N.Cooper connected (id=76561198020380389).
+14:12:47 Player 1LT N.Cooper disconnected.
+14:30:52 Player SSG B.Fitzgerald disconnected.

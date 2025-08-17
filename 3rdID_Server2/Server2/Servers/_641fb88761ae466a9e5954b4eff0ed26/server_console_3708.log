@@ -1,0 +1,34 @@
+﻿18:38:17 Game Port: 2312, Steam Query Port: 2313
+18:38:17 Host identity created.
+18:38:19 1LT N.Cooper uses modified data file
+18:38:19 Mission Operation Egyptian Collapse - Operation Troy read from bank.
+18:38:20 Player 1LT N.Cooper connecting.
+18:38:22 Player 1LT N.Cooper connected (id=76561198020380389).
+18:38:53 Roles assigned.
+18:38:53 Reading mission ...
+18:39:00 Mission read.
+18:39:17 Game started.
+18:40:41 Game finished.
+class Session
+{
+	mission="Operation Egyptian Collapse - Operation Troy";
+	island="kunduz_valley";
+	gameType="Coop";
+	duration=84.211006;
+	class Player1
+	{
+		name="1LT N.Cooper";
+		killsInfantry=0;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=0;
+		killed=0;
+	};
+};
+18:40:41 Waiting for next game.
+18:40:41 Mission Operation Egyptian Collapse - Operation Troy read from bank.
+18:40:45 Player 1LT N.Cooper disconnected.
+18:40:45 All users disconnected, waiting for users.
